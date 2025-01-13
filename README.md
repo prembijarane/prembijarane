@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prem Bijarane and I'm a , from ....</h2>
+<h2 align="left">Hi 👋! My name is Prem Bijarane and I'm a full stack java , from ....</h2>
 
 ###
 
